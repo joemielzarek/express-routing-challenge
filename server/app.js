@@ -7,7 +7,7 @@ var data = require('./routes/data');
 // Set port number to 3000
 app.set('port', 3000);
 
-app.use('/data', data);
+app.use('/bios', data);
 
 app.get('/*', function(req, res) {
   console.log('request params', req.params);

@@ -1,1 +1,27 @@
-//styles.css
+* {
+  border: 1px solid blue;
+}
+
+.gini-bio {
+  float: left;
+  display: inline;
+  width: 20%;
+  margin: auto;
+
+}
+
+.pat-bio {
+  float: left;
+  display: inline;
+  width: 20%;
+  margin: auto;
+
+
+}
+
+.joe-bio {
+  float: left;
+  display: inline;
+  width: 20%;
+  margin: auto;
+}
